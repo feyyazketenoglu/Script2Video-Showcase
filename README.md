@@ -31,3 +31,6 @@ Sinema ve senaryo dünyasına dair daha fazla içerik için beni takip edebilirs
 
 YouTube: Senaryo Avukatı
 Web: senaryoavukati.com
+
+
+![Proje Demosu](s2video.gif)
